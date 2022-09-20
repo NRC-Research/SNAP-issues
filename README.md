@@ -7,6 +7,6 @@ This repository was created to provide a public location to record and display t
 
 2. GitHub accounts are *free* (assuming all you want to do is provide issue feedback).
 
-If you would like to report and issue or request a feature for SNAP but do not want to sign up for a GitHub account (FYI: they are free!) you may instead contact [Chester Gingrich, the NRC SNAP project manager](NRCgg), and ask him to track the issue for you.
+If you would like to report and issue or request a feature for SNAP but do not want to sign up for a GitHub account (FYI: they are free!) you may instead email [Chester Gingrich, the NRC SNAP project manager](mailto:Chester.Gingrich@nrc.gov?subject=SNAP%20issue%20request%20via%20GitHub), and ask him to track the issue for you.
 
 Go directly to the [issues](https://github.com/NRC-Research/SNAP-issues/issues).
