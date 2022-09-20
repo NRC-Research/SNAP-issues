@@ -1,4 +1,4 @@
-# SNAP-issues
+# [SNAP-issues](https://github.com/NRC-Research/SNAP-issues/issues)
 
 This repository was created to provide a public location to record and display the status of "issues" for the SNAP application.  The SNAP developers will acknowledge, provide (and maybe request) feedback on the reported issues, and in general use the information to improve SNAP code.
 
@@ -9,4 +9,4 @@ This repository was created to provide a public location to record and display t
 
 If you would like to report and issue or request a feature for SNAP but do not want to sign up for a GitHub account (FYI: they are free!) you may instead email [Chester Gingrich, the NRC SNAP project manager](mailto:Chester.Gingrich@nrc.gov?subject=SNAP%20issue%20request%20via%20GitHub), and ask him to track the issue for you.
 
-Go directly to the [issues](https://github.com/NRC-Research/SNAP-issues/issues).
+# [Click here to go directly to the issues](https://github.com/NRC-Research/SNAP-issues/issues).
