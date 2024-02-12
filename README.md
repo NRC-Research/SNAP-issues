@@ -11,7 +11,8 @@ If you would like to report and issue or request a feature for SNAP but do not w
 
 ## SNAP Information
 
-* [SNAP Developers information](https://www.snaphome.com)
+* [SNAP general information](https://www.snaphome.com)
+  * [SNAP Documentation](https://www.snaphome.com/snap/docs/index.jsp)
 * [SNAP YouTube Tutorials](https://www.youtube.com/@snaptutorials8327)
   
 
