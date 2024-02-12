@@ -9,4 +9,10 @@ This repository was created to provide a public location to record and display t
 
 If you would like to report and issue or request a feature for SNAP but do not want to sign up for a GitHub account (FYI: they are free!) you may instead email [Douglas Barber, the ISL Inc. SNAP project manager](mailto:dbarber@islinc.com?subject=SNAP%20issue%20request%20via%20GitHub) or [Chester Gingrich, the NRC SNAP project manager](mailto:Chester.Gingrich@nrc.gov?subject=SNAP%20issue%20request%20via%20GitHub) and ask them to track the issue for you.
 
+## SNAP Information
+
+* [SNAP Developers information](https://www.snaphome.com)
+* [SNAP YouTube Tutorials](https://www.youtube.com/@snaptutorials8327)
+  
+
 # [Click here to go directly to the issues](https://github.com/NRC-Research/SNAP-issues/issues).
