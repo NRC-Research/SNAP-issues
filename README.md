@@ -17,3 +17,4 @@ If you would like to report and issue or request a feature for SNAP but do not w
   
 
 # [Click here to go directly to the issues](https://github.com/NRC-Research/SNAP-issues/issues).
+# [Click here to go to Q&A for SNAP](https://github.com/NRC-Research/SNAP-issues/discussions/categories/q-a).
